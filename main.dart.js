@@ -35080,7 +35080,7 @@ m=null
 s=o.a.c==="cinese"?6:7
 break
 case 6:s=8
-return A.U(A.aq1(A.er("https://https://georgos94.pythonanywhere.com/dati_cino")),$async$pD)
+return A.U(A.aq1(A.er("https://georgos94.pythonanywhere.com/dati_cino")),$async$pD)
 case 8:m=b
 case 7:s=o.a.c==="giapponese"?9:10
 break
