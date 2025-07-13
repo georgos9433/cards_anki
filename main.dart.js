@@ -49340,7 +49340,7 @@ break
 case 7:j=B.er("https://georgos94.pythonanywhere.com/new_card",0,null)
 i=k.a
 h=t.N
-i=B.V(["category",i.d,"lingua",i.c],h,h)
+i=B.V(["category",i.d,"lingua",i.c,"Content-Type","application/json; charset=UTF-8"],h,h)
 s=9
 return B.D(B.aMS(j,A.cv.EB(B.V(["character",n.b.a.a,"pinyin",n.c.a.a,"meaning",n.d.a.a,"example",n.e.a.a,"prossimaRevisione",new B.d7(Date.now(),0,!1).PA(),"fallimentiConsecutivi",0,"isLeech",!1],h,t.C),null),i),$async$$0)
 case 9:m=b
